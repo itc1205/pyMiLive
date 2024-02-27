@@ -2,6 +2,10 @@
 
 Little and simple DAW, written in Python
 
+## Current state of project
+
+Currently project is under huge refactor, check refactor branch
+
 ## Setup && Launch
 
 1. Install fluidsynth with your favorite package manager, or from source
